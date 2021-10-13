@@ -1,0 +1,18 @@
+h1 {
+  text-align: center;
+  font-weight: bolder;
+}
+
+.header {
+  text-align: center;
+  font-weight: bold;
+}
+
+.subpoint {
+  font-weight: bold;
+}
+
+.job {
+  text-align: right;
+  font-weight: bold;
+}
